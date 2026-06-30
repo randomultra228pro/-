@@ -1,0 +1,16 @@
+<!DOCTYPE html>  
+<html>  
+<head>  
+  <meta charset="utf-8">  
+  <title>Перенаправление...</title>  
+  <meta http-equiv="refresh" content="0;url=https://durkacehov.github.io">  
+  <link rel="canonical" href="https://durkacehov.github.io">  
+  <script>  
+    window.location.replace("https://durkacehov.github.io");  
+  </script>  
+</head>  
+<body>  
+  <p>Страница перемещена. Если вы не перенаправились автоматически,   
+     <a href="https://durkacehov.github.io">нажмите сюда</a>.</p>  
+</body>  
+</html>  
